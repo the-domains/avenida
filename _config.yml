@@ -1,7 +1,7 @@
 name: Avenida
 favicon: null
-layout_spectrum: 0.9731214095372707
-typography_spectrum: 0.7506258182693273
+layout_spectrum: 0.4981
+typography_spectrum: 0.73414
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.45309473667293787
+    - '#ffffff'
+    - '#393738'
+    - '#b8b7b7'
+    - '#7d7b7c'
+    - '#dddcdc'
+  brandStrength: 0.4375
   lightness: 0.6047669565305114
   saturation: 0.030907013453543186
   rhythmicContrast: 0.7869273014366627
